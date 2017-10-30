@@ -3,10 +3,10 @@ title: Shell Scripting
 ---
 
 
-#Shell Scripting
+# Shell Scripting
 
 
-##What is a Shell?
+## What is a Shell?
 An Operating is made of many components, but its two prime components are - 
  >Kernel
  >Shell
@@ -18,7 +18,7 @@ A shell in a Linux operating system takes input from you in the form of commands
 When you run the terminal, the Shell issues a command prompt (usually $), where you can type your input, which is then executed when you hit the Enter key. The output or the result is thereafter displayed on the terminal. 
 The Shell wraps around the delicate interior of an Operating system protecting it from accidental damage. Hence the name Shell. 
 
-##Types of Shell
+## Types of Shell
 There are two main shells in Linux: 
 1. The <b>Bourne Shell</b>: The prompt for this shell is $ and its derivatives are listed below: 
 POSIX shell also is known as sh
@@ -30,7 +30,7 @@ Tops C shell also is known as tcsh
 
 We will discuss bash shell based shell scripting here. 
 
-##What is Shell Scripting?
+## What is Shell Scripting?
 
 Shell scripting is writing a series of command for the shell to execute. It can combine lengthy and repetitive sequences of commands into a single and simple script, which can be stored and executed anytime. This reduces the effort required by the end user.
 
@@ -52,7 +52,7 @@ Let's see the steps to create it -
 
 Command 'ls' is executed when we execute the scrip sample.sh file.
 
-##Adding shell comments
+## Adding shell comments
 Commenting is important in any program. In Shell programming, the syntax to add a comment is
 ```
 #comment
