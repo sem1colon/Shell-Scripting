@@ -7,9 +7,9 @@ title: Shell Scripting
 
 
 ## What is a Shell?
-An Operating is made of many components, but its two prime components are - 
- >Kernel
- >Shell
+An Operating is made of many components, but its two prime components are: 
+ 1. Kernel
+ 2. Shell
 
 ![OS Components](https://github.com/sem1colon/Images/blob/master/ShellScripting.png)
 
