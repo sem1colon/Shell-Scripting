@@ -1,5 +1,4 @@
-﻿---
-
+---
 title: Shell Scripting
 ---
 
@@ -48,7 +47,9 @@ Let's create a small script -
 ls
 ```
 Let's see the steps to create it - 
+
 ![Steps](https://github.com/sem1colon/Images/blob/master/vi_scriptsample(2).png)
+
 Command 'ls' is executed when we execute the scrip sample.sh file.
 
 ##Adding shell comments
@@ -57,10 +58,12 @@ Commenting is important in any program. In Shell programming, the syntax to add 
 #comment
 ```
 Let understand this with an example.
+
 ![comment](https://github.com/sem1colon/Images/blob/master/adding_comment.png)
 
 #What are Shell Variables?
-As discussed earlier, Variables store data in the form of characters and numbers. Similarly, Shell variables are used to store information and they can by the shell only.
+As discussed earlier, Variables store data in the form of characters and numbers.
+Similarly, Shell variables are used to store information and they can by the shell only.
 For example, the following creates a shell variable and then prints it:
 ```
 #!/bin/sh
@@ -71,6 +74,9 @@ read remark
 echo "I am $remark too!"
 ```
 Let's understand,  the steps to create and execute the script:
+
 ![program](https://github.com/sem1colon/Images/blob/master/program.jpg)
+
 As you see, the program picked the value of the variable 'name' as Joy and 'remark' as excellent.
-This is a simple script. You can develop advanced scripts which contain conditional statements, loops, and functions. Shell scripting will make your life easy and Linux administration a breeze. 
+This is a simple script. You can develop advanced scripts which contain conditional statements, loops, and functions.
+Shell scripting will make your life easy and Linux administration a breeze. 
