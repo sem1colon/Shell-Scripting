@@ -1,8 +1,3 @@
----
-title: Shell Scripting
----
-
-
 # Shell Scripting
 
 
