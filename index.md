@@ -72,6 +72,6 @@ Let's understand,  the steps to create and execute the script:
 
 ![program](https://github.com/sem1colon/Images/blob/master/program.jpg)
 
-As you see, the program picked the value of the variable 'name' as Joy and 'remark' as excellent.
+If you observe, the program picked the value of the variable 'name' as Joy and 'remark' as excellent.
 This is a simple script. You can develop advanced scripts which contain conditional statements, loops, and functions.
 Shell scripting will make your life easy and Linux administration a breeze. 
